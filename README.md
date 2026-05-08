@@ -80,7 +80,45 @@
 </ul>
 
 </td>
+<td width="50%">
 
+<h3 align="center">🏗️ Ecommerce Data Warehouse & BI</h3>
+
+<div align="center">
+
+<a href="https://github.com/danylo130205/SQLServer-ETL-DataWarehouse" target="_blank">
+<img src="https://raw.githubusercontent.com/danylo130205/SQLServer-ETL-DataWarehouse/main/assets/SQL-SSIS-ETL.png" width="400" alt="Ecommerce Data Warehouse">
+</a>
+
+<br>
+
+<a href="https://github.com/danylo130205/SQLServer-ETL-DataWarehouse" target="_blank">
+<img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://github.com/danylo130205/SQLServer-ETL-DataWarehouse/blob/main/assets/AN%C3%81LISIS%20DE%20DATOS%20INTEGRAL.pdf" target="_blank">
+<img src="https://img.shields.io/badge/Documentación-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+<p align="center">
+Solución de Data Warehouse y Business Intelligence para análisis de datos e-commerce.
+</p>
+
+### 📌 Características
+<ul>
+<li>Arquitectura multicapa RAW → STAGING → PROCESSING → MART</li>
+<li>Procesos ETL con SQL Server y SSIS</li>
+<li>Modelo dimensional orientado a BI</li>
+<li>Dashboards analíticos en Power BI</li>
+</ul>
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 <h3 align="center">📊 Próximo Proyecto</h3>
