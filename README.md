@@ -41,15 +41,19 @@
 
 ## 📂 Proyectos Destacados
 
-### 🛒 Análisis de Ventas + Detección de Anomalías
-<a href="https://github.com/TU_USUARIO/proyecto-ventas">
-  <img src="https://via.placeholder.com/800x400.png?text=Proyecto+Ventas" />
+### 🛡️ Fraud Detection Pipeline (ETL + ML)
+
+<a href="https://github.com/danylo130205/ETL-Deteccion-Fraude">
+  <img src="./assets/fraud_pipeline.png" />
 </a>
 
-- Limpieza y transformación con pandas  
-- Análisis exploratorio (EDA)  
-- Detección de comportamientos atípicos  
-- Dashboard en Power BI  
+📄 [Ver documentación del proyecto](./assets/ETL Y MODELO PREDICTIVO PARA DETECCIÓN DE FRAUDE.pdf)
+
+- Pipeline ETL para procesamiento de transacciones
+- Limpieza, validación y transformación de datos
+- Feature Engineering para detección de fraude
+- Modelo Random Forest para clasificación
+- Arquitectura modular y escalable  
 
 ---
 
