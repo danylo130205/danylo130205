@@ -41,22 +41,74 @@
 
 ## 📂 Proyectos Destacados
 
-### 🛡️ Fraud Detection Pipeline (ETL + ML)
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/danylo130205/ETL-Deteccion-Fraude">
-  <img src="./assets/fraud_pipeline.png" />
+<h3 align="center">🛡️ Pipeline de detección de fraude</h3>
+
+<div align="center">
+
+<a href="https://github.com/danylo130205/ETL-Deteccion-Fraude" target="_blank">
+<img src="https://raw.githubusercontent.com/danylo130205/ETL-Deteccion-Fraude/main/assets/fraud_pipeline.png" width="400" alt="Fraud Detection Pipeline">
 </a>
 
-📄 [Ver documentación del proyecto](./assets/ETL Y MODELO PREDICTIVO PARA DETECCIÓN DE FRAUDE.pdf)
+<br>
 
-- Pipeline ETL para procesamiento de transacciones
-- Limpieza, validación y transformación de datos
-- Feature Engineering para detección de fraude
-- Modelo Random Forest para clasificación
-- Arquitectura modular y escalable  
+<a href="https://github.com/danylo130205/ETL-Deteccion-Fraude" target="_blank">
+<img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://github.com/danylo130205/ETL-Deteccion-Fraude/blob/main/assets/ETL%20Y%20MODELO%20PREDICTIVO%20PARA%20DETECCI%C3%93N%20DE%20FRAUDE.pdf" target="_blank">
+<img src="https://img.shields.io/badge/Documentación-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+</a>
+
+</div>
+
+<br>
+<p align="center">
+  Pipeline ETL y sistema de Machine Learning orientado a la detección de fraude financiero.
+</p>
+
+
+### 📌 Características
+<ul>
+<li>ETL para procesamiento de transacciones financieras</li>
+<li>Feature Engineering y detección de fraude</li>
+<li>Modelo Random Forest para clasificación</li>
+<li>Arquitectura modular y escalable</li>
+</ul>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">📊 Próximo Proyecto</h3>
+
+<div align="center">
+
+<img src="https://via.placeholder.com/400x220.png?text=Próximamente" width="400">
+
+</div>
+
+<br>
+
+Próximamente agregaré nuevos proyectos relacionados con:
+
+### 🚀 Áreas
+- Power BI
+- SQL Analytics
+- Dashboards interactivos
+- Data Visualization
+- Cloud & Data Engineering
+
+</td>
+
+</tr>
+</table>
 
 ---
-
+<!--
 ### 🔄 Pipeline ETL con Python
 <a href="https://github.com/TU_USUARIO/proyecto-etl">
   <img src="https://via.placeholder.com/800x400.png?text=Pipeline+ETL" />
@@ -67,7 +119,7 @@
 - Carga para análisis  
 
 ---
-
+-->
 <!--## 📈 GitHub Stats
 
 <p align="center">
