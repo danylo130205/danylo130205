@@ -125,7 +125,7 @@ Solución de Data Warehouse y Business Intelligence para análisis de datos e-co
 
 <div align="center">
 
-<img src="https://via.placeholder.com/400x220.png?text=Próximamente" width="400">
+<img src="https://raw.githubusercontent.com/danylo130205/ETL-Deteccion-Fraude/main/assets/proximos_proyectos.png" width="400">
 
 </div>
 
